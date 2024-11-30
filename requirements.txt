@@ -1,0 +1,6 @@
+numpy
+streamlit
+tensorflow_cpu
+pandas
+requests
+streamlit-lottie
